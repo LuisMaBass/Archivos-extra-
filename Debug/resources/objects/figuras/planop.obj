@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 10.12.2023 00:33:05
+
+mtllib planop.mtl
+
+#
+# object Box001
+#
+
+v  0.7400 0.0000 0.0669
+v  11.2738 0.0000 0.0669
+v  11.2738 19.6246 0.0669
+v  0.7400 19.6246 0.0669
+# 4 vertices
+
+vn 0.0000 0.0000 1.0000
+# 1 vertex normals
+
+vt 0.0000 0.0000 0.0000
+vt 1.0000 0.0000 0.0000
+vt 1.0000 1.0000 0.0000
+vt 0.0000 1.0000 0.0000
+# 4 texture coords
+
+o Box001
+g Box001
+usemtl 16___Default
+s 8
+f 1/1/1 2/2/1 3/3/1 4/4/1 
+# 1 polygons
+
