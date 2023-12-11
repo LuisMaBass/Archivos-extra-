@@ -1,0 +1,12 @@
+﻿  extra.cpp
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\extra.cpp(515,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\extra.cpp(516,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\extra.cpp(519,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\extra.cpp(520,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\extra.cpp(522,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\extra.cpp(523,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jgote\source\repos\LuisBassoco PracticasCG\LuisBassoco PracticasCG\extra.cpp(529,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  LuisBassoco PracticasCG.vcxproj -> C:\Users\jgote\source\repos\LuisBassoco PracticasCG\Debug\LuisBassoco PracticasCG.exe

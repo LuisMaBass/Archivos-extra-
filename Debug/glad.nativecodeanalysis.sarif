@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32822.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/jgote/source/repos/luisbassoco practicascg/luisbassoco practicascg/glad.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "c6186864a72029ac314e25548f066119bfdfa3b3cc8f3b81df3941069ec0f421"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jgote/source/repos/luisbassoco practicascg/luisbassoco practicascg/include/glad/glad.h"
+          },
+          "hashes": {
+            "sha-256": "0492f3f6b732adfc9368c9fe8ff8dae0b3ed132a970259b6abfdada9b2ec6f7c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jgote/source/repos/luisbassoco practicascg/luisbassoco practicascg/include/khr/khrplatform.h"
+          },
+          "hashes": {
+            "sha-256": "bbca133eec0bd0b62fc6f8d27d993aedda3c79f0de8ad3637f8cf42ffbeb8e7b"
+          }
+        }
+      ]
+    }
+  ]
+}
